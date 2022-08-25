@@ -1,6 +1,7 @@
 # School-located influenza vaccination and community-wide indirect effects: comparing transmission models to epidemiologic models
 
 ## Overview
+Mathematical models and empirical epidemiologic studies (e.g., randomized and observational studies) are complementary tools but may produce conflicting results for a given research question. We used sensitivity analyses and bias analyses to explore such discrepancies in a study of the indirect effects of influenza vaccination.
 
 ## Directory Structure
 
@@ -12,3 +13,5 @@
 * `3-hosp-cases.R` : correct hospitalization counts for incomplete flu testing same priors in each site
 * `4-hosp-cases-diff-by-site.R` : correct hospitalization counts for incomplete flu testing allowing priors to differ between sites 
 * `5-confounding.R` : correct DID and relative reduction for time-dependent confounding
+
+**`figures` :** folder containing figure files
