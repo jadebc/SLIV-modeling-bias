@@ -14,4 +14,6 @@ Mathematical models and empirical epidemiologic studies (e.g., randomized and ob
 * `4-hosp-cases-diff-by-site.R` : correct hospitalization counts for incomplete flu testing allowing priors to differ between sites 
 * `5-confounding.R` : correct DID and relative reduction for time-dependent confounding
 
+**`mathematical-model` :** folder containing mathematical modeling scripts
+
 **`figures` :** folder containing figure files
